@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "incident.status.List",
+    "type": "java.lang.String",
+    "description": "A description for 'incident.status.List'"
+  },
+  {
+    "name": "incident.priority.List",
+    "type": "java.lang.String",
+    "description": "A description for 'incident.priority.List'"
+  },
+  {
+    "name": "kpi.reporting.url",
+    "type": "java.lang.String",
+    "description": "A description for 'kpi.reporting.url'"
+  },
+  {
+    "name": "order.List",
+    "type": "java.lang.String",
+    "description": "A description for 'order.List'"
+  }
+]}
